@@ -4,42 +4,47 @@
 
 ![MoroJS Logo](https://via.placeholder.com/300x100/2563eb/ffffff?text=MoroJS)
 
-**High-performance multi-runtime framework with intelligent routing**  
-Functional • Type-safe • Multi-environment • Production-ready
+**Building next-generation frameworks and tools for modern applications**  
+Focused on performance • Simplicity • Type safety • Multi-runtime environments
 
 [![npm version](https://img.shields.io/npm/v/@morojs/moro.svg)](https://www.npmjs.com/package/@morojs/moro)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)  
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
 
-[**Documentation**](./docs/) • [**Examples**](https://github.com/MoroJS/examples) • [**API Reference**](https://github.com/Moro-JS/moro/tree/main/docs/API.md)
-
 </div>
 
 ---
 
-## About MoroJS
+## About Us
 
-MoroJS is a modern framework and ecosystem designed to eliminate the pain points of traditional Node.js frameworks.  
-We focus on creating tools and patterns that are:
+MoroJS is an open-source team dedicated to creating **practical, production-ready developer tools**.  
+Our mission is to make building modern applications easier by focusing on:
 
-- **Multi-Runtime** – Run the same code on Node.js, Vercel Edge, AWS Lambda, and Cloudflare Workers.  
-- **Intelligent** – Automatic middleware ordering with chainable, schema-first APIs.  
-- **Type-Safe** – Full validation and inference powered by Zod and TypeScript.  
-- **Functional** – Built on pure functional programming patterns.  
-- **Optimized** – Minimal runtime overhead with high performance across environments.  
+- **Performance** – Frameworks and runtimes that deliver low-latency, high-throughput apps.  
+- **Simplicity** – APIs that are easy to learn and consistent to use.  
+- **Portability** – The same code runs across servers, edge functions, and serverless platforms.  
+- **Type Safety** – Strong guarantees and better developer experience through TypeScript and Zod.  
 
-Our mission is to give developers a framework that is reliable, production-ready, and adaptable across any platform.
+We believe developers should spend less time wrestling with framework limitations and more time building features.
 
 ---
 
-## Ecosystem
+## Our Work
 
-MoroJS is more than a single package. It includes:
+### Moro (Core Framework)  
+[`@morojs/moro`](https://www.npmjs.com/package/@morojs/moro) is our flagship project:  
+a **multi-runtime, intelligent-routing framework** designed for Node.js, Edge, Lambda, and Workers.  
 
-- **Core Framework**: [`@morojs/moro`](https://www.npmjs.com/package/@morojs/moro) – the foundation for intelligent routing and multi-runtime support.  
-- **Examples Repository**: [MoroJS/examples](https://github.com/MoroJS/examples) – working examples and reference implementations.  
-- **Documentation**: Complete guides, API references, migration paths, and performance benchmarks.  
+Key goals:  
+- Automatic middleware ordering.  
+- Schema-first, type-safe APIs.  
+- Minimal runtime overhead.  
+- Pure functional design with no decorators.  
+
+### Examples & Ecosystem  
+We maintain an [Examples Repository](https://github.com/MoroJS/examples) showcasing best practices and reference implementations.  
+Additional ecosystem tools will be released as the project evolves.  
 
 ---
 
