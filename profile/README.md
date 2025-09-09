@@ -2,15 +2,10 @@
 
 <div align="center">
 
-![MoroJS Logo](https://via.placeholder.com/300x100/2563eb/ffffff?text=MoroJS)
+![MoroJS Logo](https://morojs.com/MoroText.png)
 
 **Building next-generation frameworks and tools for modern applications**  
 Focused on performance • Simplicity • Type safety • Multi-runtime environments
-
-[![npm version](https://img.shields.io/npm/v/@morojs/moro.svg)](https://www.npmjs.com/package/@morojs/moro)  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-[![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
 
 </div>
 
