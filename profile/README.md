@@ -35,11 +35,11 @@ a **multi-runtime, intelligent-routing framework** designed for Node.js, Edge, L
 [`@morojs/cli`](https://www.npmjs.com/package/@morojs/cli) is our comprehensive development toolkit:  
 a **multi-runtime, intelligent-scaffolding CLI** designed for rapid project creation, module generation, and deployment across Node.js, Edge, Lambda, and Workers environments.  
 
-Key goals:  
-- Automatic middleware ordering.  
-- Schema-first, type-safe APIs.  
-- Minimal runtime overhead.  
-- Pure functional design with no decorators.  
+Key goals:
+– **Performance** – Zero-config initialization with optimized builds and minimal overhead.
+– **Simplicity** – Intuitive commands with intelligent defaults and interactive prompts.
+– **Portability** – Same CLI generates projects that run across servers, edge functions, and serverless platforms.
+– **Type Safety** – Full TypeScript integration with Zod validation and comprehensive tooling.
 
 ### Examples & Ecosystem  
 We maintain an [Examples Repository](https://github.com/MoroJS/examples) showcasing best practices and reference implementations.  
