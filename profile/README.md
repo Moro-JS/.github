@@ -31,6 +31,10 @@ We believe developers should spend less time wrestling with framework limitation
 [`@morojs/moro`](https://www.npmjs.com/package/@morojs/moro) is our flagship project:  
 a **multi-runtime, intelligent-routing framework** designed for Node.js, Edge, Lambda, and Workers.  
 
+### MoroCli  
+[`@morojs/cli`](https://www.npmjs.com/package/@morojs/cli) is our comprehensive development toolkit:  
+a **multi-runtime, intelligent-scaffolding CLI** designed for rapid project creation, module generation, and deployment across Node.js, Edge, Lambda, and Workers environments.  
+
 Key goals:  
 - Automatic middleware ordering.  
 - Schema-first, type-safe APIs.  
