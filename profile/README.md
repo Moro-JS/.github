@@ -45,10 +45,10 @@ Additional ecosystem tools will be released as the project evolves.
 
 ## Documentation
 
-- [Getting Started Guide](https://github.com/Moro-JS/moro/tree/main/docs/GETTING_STARTED.md)  
-- [API Reference](https://github.com/Moro-JS/moro/tree/main/docs/API.md)  
-- [Migration Guide](https://github.com/Moro-JS/moro/tree/main/docs/MIGRATION.md)  
-- [Performance Benchmarks](https://github.com/Moro-JS/moro/tree/main/docs/PERFORMANCE.md)  
+- [Getting Started Guide](https://morojs.com/docs)  
+- [API Reference](https://morojs.com/technical)  
+- [Migration Guide](https://morojs.com/docs/migration)  
+- [Performance Benchmarks](https://github.com/Moro-JS/benchmark)  
 - [Examples Repository](https://github.com/MoroJS/examples)  
 
 ---
