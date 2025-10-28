@@ -28,11 +28,13 @@ We believe developers should spend less time wrestling with framework limitation
 ## Our Work
 
 ### Moro (Core Framework)  
-[`@morojs/moro`](https://www.npmjs.com/package/@morojs/moro) is our flagship project:  
+[`GIT Moro framework`](https://github.com/Moro-JS/moro)
+[`NPM @morojs/moro`](https://www.npmjs.com/package/@morojs/moro) is our flagship project:  
 a **multi-runtime, intelligent-routing framework** designed for Node.js, Edge, Lambda, and Workers.  
 
 ### MoroCli  
-[`@morojs/cli`](https://www.npmjs.com/package/@morojs/cli) is our comprehensive development toolkit:  
+[`GIT Moro CLI`](https://github.com/Moro-JS/cli)
+[`NPM @morojs/cli`](https://www.npmjs.com/package/@morojs/cli) is our comprehensive development toolkit:  
 a **multi-runtime, intelligent-scaffolding CLI** designed for rapid project creation, module generation, and deployment across Node.js, Edge, Lambda, and Workers environments.  
 
 Key goals:
@@ -42,7 +44,7 @@ Key goals:
 - **Type Safety** – Full TypeScript integration with Zod validation and comprehensive tooling.  
 
 ### Examples & Ecosystem  
-We maintain an [Examples Repository](https://github.com/MoroJS/examples) showcasing best practices and reference implementations.  
+We maintain an [Examples Repository](https://github.com/Moro-JS/examples) showcasing best practices and reference implementations.  
 Additional ecosystem tools will be released as the project evolves.  
 
 ---
