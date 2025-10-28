@@ -69,4 +69,4 @@ Stay connected:
 
 ## License
 
-MIT © [MoroJS Team](https://morojs.com)
+MIT © [MoroJS Team / CM Ventures Inc.](https://morojs.com)
