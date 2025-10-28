@@ -59,9 +59,11 @@ We welcome contributions from the community.
 Please review our [Contributing Guide](https://github.com/Moro-JS/moro/tree/main/docs/CONTRIBUTING.md) to get started.
 
 Stay connected:  
-- GitHub: [MoroJS](https://github.com/MoroJS)  
+- GitHub: [Moro-JS](https://github.com/Moro-JS)  
 - npm: [@morojs/moro](https://www.npmjs.com/package/@morojs/moro)  
 - Website: [morojs.com](https://morojs.com)
+- Discord: [morojs.com/discord](https://morojs.com/discord)
+- X: [x.com/@Moro_JS](https://x.com/Moro_JS)
 
 ---
 
